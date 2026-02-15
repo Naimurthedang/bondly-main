@@ -1,0 +1,9 @@
+
+{
+  "name": "Bondly - AI Parenting Companion",
+  "description": "An emotionally intelligent parenting platform that builds bonding through personalized AI bedtime songs, storybooks, puzzles, and expert guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
